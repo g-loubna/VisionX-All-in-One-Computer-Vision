@@ -29,11 +29,16 @@ if you scroll down you find the demonstration of these applications:
 - **goal**: To control the mouse pointer using an index finger and click defined by threshold between the index and the middle fingers.
 - **Results**:
 
+https://github.com/user-attachments/assets/14b6dce3-e32f-427a-9147-601b3a111695
+
 ### 5. Gesture Volume Control :
 - **goal**: To control the volume of media players using hand gestures.
 - **Results**:
+  
 
 ### 6. AI Virtual Painter :
-- **goal**: To use hand gestures for drawing in digital canvas with multiple colors you can choose and select, with the ability of earasing with rubber.
+- **goal**: To use hand gestures for drawing in digital canvas with multiple colors you can choose and select,mode painting while using index finger and mode selection with two fingers, with the ability of earasing with rubber.
 - **Results**:
-  
+
+https://github.com/user-attachments/assets/21c2da04-4945-4214-9cbd-86f9c5a85158
+
