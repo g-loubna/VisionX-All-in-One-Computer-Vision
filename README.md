@@ -35,6 +35,7 @@ https://github.com/user-attachments/assets/14b6dce3-e32f-427a-9147-601b3a111695
 - **goal**: To control the volume of media players using hand gestures.
 - **Results**:
   
+https://github.com/user-attachments/assets/4668ab26-6bf9-475f-b1fe-4dc6955c29f1
 
 ### 6. AI Virtual Painter :
 - **goal**: To use hand gestures for drawing in digital canvas with multiple colors you can choose and select,mode painting while using index finger and mode selection with two fingers, with the ability of earasing with rubber.
